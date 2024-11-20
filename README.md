@@ -54,9 +54,9 @@ Animated images are displayed seamlessly using the SDWebImageSwiftUI integration
 
 | Screenshot              | Description                |
 |--------------------------|----------------------------|
-| ![Home Screen](https://github.com/martinusgalih/Project-AI/assets/79133324/1e09dbd1-fea7-48b8-a9c0-427ce842cf97) | **Home Screen**: The main interface of the application. |
+| ![Home Screen](https://github.com/martinusgalih/Project-AI/assets/79133324/70fae33f-c235-4622-9437-e5126622fea0) | **Home Screen**: The main interface of the application. |
 | ![Image Prediction Interface](https://github.com/martinusgalih/Project-AI/assets/79133324/b90974ce-d969-4025-8eb2-83523b587d95) | **Image Prediction Interface**: Interface for generating images based on prompts. |
-| ![3D Image Prediction](https://github.com/martinusgalih/Project-AI/assets/79133324/70fae33f-c235-4622-9437-e5126622fea0) | **3D Image Prediction**: Interface for creating 3D-styled images. |
+| ![3D Image Prediction](https://github.com/martinusgalih/Project-AI/assets/79133324/1e09dbd1-fea7-48b8-a9c0-427ce842cf97) | **3D Image Prediction**: Interface for creating 3D-styled images. |
 
 
 ***Email:*** martinusgalih@gmail.com
